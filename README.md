@@ -1,10 +1,10 @@
 # ESP8266 Window
 
-An Arduino code for ESP8266 module which trasform your standard window shade into wireless electric one.
+An Arduino code for ESP8266 module which trasform your standard window shade into wireless motorized one.
 
 # Why
 
-Because I always wanted to have an electric window shade. However, they used to be quite expensive for my budget so I decided to build my own. Plus, I really wanted to find a practical application for an ESP8266 module which was lying around for some time. It's nice to see what this tiny wireless module can actually do.
+Because I always wanted to have a motorized window shade. However, they used to be quite expensive for my budget so I decided to build my own. Plus, I really wanted to find a practical application for an ESP8266 module which was lying around for some time. It's nice to see what this tiny wireless module can actually do.
 
 # Requirements
 
@@ -26,7 +26,7 @@ In my servo I have replaced the potentiometer with two 2k Ohm resistors and in t
 
 Finally, upload code from this repository to your ESP8266 module.
 
-You could probably start using your brand new electric window shade now although controlling it directly through HTTP requests could be quirky. Because of that you can check out the [Homebridge plugin](https://github.com/pawelsledzikowski/homebridge-esp8266-window). It was created to allows you to integrate your ESP8266 module with Apple HomeKit platform and Siri.
+You could probably start using your brand new motorized window shade by now although controlling it directly through HTTP requests could be quirky. Because of that you can check out the [Homebridge plugin](https://github.com/pawelsledzikowski/homebridge-esp8266-window). It was created to allows you to integrate your ESP8266 module with Apple HomeKit platform and Siri.
 
 # Usage
 
