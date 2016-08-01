@@ -9,8 +9,8 @@
 #include <ESP8266WiFi.h>
 #include <Servo.h>
 
-const char* ssid = "Home";
-const char* password = "aaaaabbbbb";
+const char* ssid = "yourNetwork";
+const char* password = "secretPassword";
 
 WiFiServer server(1337);  // 80
 

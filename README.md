@@ -26,7 +26,7 @@ In my servo I have replaced the potentiometer with two 2k Ohm resistors and in t
 
 Finally, upload code from this repository to your ESP8266 module.
 
-You could probably start using your brand new motorized window shade by now although controlling it directly through HTTP requests could be quirky. Because of that you can check out the [Homebridge plugin](https://github.com/pawelsledzikowski/homebridge-esp8266-window). It was created to allows you to integrate your ESP8266 module with Apple HomeKit platform and Siri.
+You could probably start using your brand new motorized window shade by now although controlling it directly through HTTP requests could be quirky. Because of that you can check out the [Homebridge plugin](https://github.com/psled/homebridge-esp8266-window). It was created to allows you to integrate your ESP8266 module with Apple HomeKit platform and Siri.
 
 # Usage
 
