@@ -296,7 +296,8 @@ void holdWindow() {
   if (servo.attached()) {
     //servo.write(90);
     servo.write(85);
-    delay(1000);
+    //delay(1000);
+    delay(250);
     servo.detach();
     delay(1);
   }
